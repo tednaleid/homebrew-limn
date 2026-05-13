@@ -1,6 +1,6 @@
 cask "limn" do
-  version "0.9.17"
-  sha256 "82642ec2cc598b04976a6366e26167cde0740ea196c62c96059b838bffdf17ca"
+  version "0.9.18"
+  sha256 "13e029b5ec22caede530732f9f5c617ae4e9076d3fa050e05c0304d90f5c5d08"
 
   url "https://github.com/tednaleid/limn/releases/download/desktop-#{version}/Limn-#{version}.dmg"
   name "Limn"
